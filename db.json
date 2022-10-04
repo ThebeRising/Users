@@ -25,6 +25,32 @@
         "bs": "focussing product idaes for your business"
       }
       
+    },
+        {
+      "id": 2,
+      "name": "Samanao",
+      "username": "Nao",
+      "email": "Nao@mail.com",
+      "address":
+      {
+        "street" : "Beach",
+        "suite" : "Apt 9",
+        "zipcode" : "88445577"
+      },
+      "geo" :
+      {
+        "lat": "-22.3159",
+        "lng": "40.146"
+      },
+      "phone": "1-880-736-9000 x56622",
+      "website": "Nao.com",
+      "company" : 
+      {
+        "name": "Belle",
+        "catchphrase": "Get ready for the night",
+        "bs": "The home of luxury"
+      }
+      
     }
   ],
   "profile": {
