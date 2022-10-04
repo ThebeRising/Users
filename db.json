@@ -1,8 +1,30 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Jabaroo",
+      "username": "Jaba",
+      "email": "Jaba@mail.com",
+      "address":
+      {
+        "street" : "Palaza",
+        "suite" : "Apt 40",
+        "zipcode" : "11445566"
+      },
+      "geo" :
+      {
+        "lat": "-37.3159",
+        "lng": "81.146"
+      },
+      "phone": "1-770-736-8031 x56642",
+      "website": "Jaba.com",
+      "company" : 
+      {
+        "name": "TheNet",
+        "catchphrase": "Round em up",
+        "bs": "focussing product idaes for your business"
+      }
+      
     }
   ],
   "profile": {
