@@ -26,7 +26,7 @@
       }
       
     },
-        {
+     {
       "id": 2,
       "name": "Samanao",
       "username": "Nao",
@@ -51,7 +51,34 @@
         "bs": "The home of luxury"
       }
       
+    },
+    {
+      "id": 3,
+      "name": "Bear",
+      "username": "Claw",
+      "email": "Bear@mail.com",
+      "address":
+      {
+        "street" : "Forrest",
+        "suite" : "Apt 55",
+        "zipcode" : "12655577"
+      },
+      "geo" :
+      {
+        "lat": "-90.3159",
+        "lng": "40.146"
+      },
+      "phone": "1-100-603-9000 x82623",
+      "website": "Bear.com",
+      "company" : 
+      {
+        "name": "Raw Butcher",
+        "catchphrase": "All your cuts",
+        "bs": "Quality meat producers."
+      }
+      
     }
+    
   ],
   "profile": {
     "name": "typicode"
